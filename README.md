@@ -4,6 +4,6 @@ This repository hosts Playwright HTML reports published by the BigBlueButton CI.
 
 Reports are available at:
 
-- `https://antonbsa.github.io/bigbluebutton-ci-playwright-reports/pr-<number>/`
+- `https://antonbsa.github.io/bbb-ci-playwright-reports/pr-<number>/`
 
 Old reports are removed when the related pull request is closed or merged.
